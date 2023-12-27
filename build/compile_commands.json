@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/george/projects/BackUpSys/build",
+  "command": "/usr/bin/g++  -I/home/george/projects/BackUpSys/./include -O3 -DNDEBUG -w -O2 -std=c++17 -lcrypto -o CMakeFiles/backupsys.dir/src/aes.cpp.o -c /home/george/projects/BackUpSys/src/aes.cpp",
+  "file": "/home/george/projects/BackUpSys/src/aes.cpp"
+},
+{
+  "directory": "/home/george/projects/BackUpSys/build",
+  "command": "/usr/bin/g++  -I/home/george/projects/BackUpSys/./include -O3 -DNDEBUG -w -O2 -std=c++17 -lcrypto -o CMakeFiles/backupsys.dir/src/backupsys.cpp.o -c /home/george/projects/BackUpSys/src/backupsys.cpp",
+  "file": "/home/george/projects/BackUpSys/src/backupsys.cpp"
+},
+{
+  "directory": "/home/george/projects/BackUpSys/build",
+  "command": "/usr/bin/g++  -I/home/george/projects/BackUpSys/./include -O3 -DNDEBUG -w -O2 -std=c++17 -lcrypto -o CMakeFiles/backupsys.dir/src/compressor.cpp.o -c /home/george/projects/BackUpSys/src/compressor.cpp",
+  "file": "/home/george/projects/BackUpSys/src/compressor.cpp"
+},
+{
+  "directory": "/home/george/projects/BackUpSys/build",
+  "command": "/usr/bin/g++  -I/home/george/projects/BackUpSys/./include -O3 -DNDEBUG -w -O2 -std=c++17 -lcrypto -o CMakeFiles/backupsys.dir/src/filebase.cpp.o -c /home/george/projects/BackUpSys/src/filebase.cpp",
+  "file": "/home/george/projects/BackUpSys/src/filebase.cpp"
+},
+{
+  "directory": "/home/george/projects/BackUpSys/build",
+  "command": "/usr/bin/g++  -I/home/george/projects/BackUpSys/./include -O3 -DNDEBUG -w -O2 -std=c++17 -lcrypto -o CMakeFiles/backupsys.dir/src/filter.cpp.o -c /home/george/projects/BackUpSys/src/filter.cpp",
+  "file": "/home/george/projects/BackUpSys/src/filter.cpp"
+},
+{
+  "directory": "/home/george/projects/BackUpSys/build",
+  "command": "/usr/bin/g++  -I/home/george/projects/BackUpSys/./include -O3 -DNDEBUG -w -O2 -std=c++17 -lcrypto -o CMakeFiles/backupsys.dir/src/packer.cpp.o -c /home/george/projects/BackUpSys/src/packer.cpp",
+  "file": "/home/george/projects/BackUpSys/src/packer.cpp"
+},
+{
+  "directory": "/home/george/projects/BackUpSys/build",
+  "command": "/usr/bin/g++  -I/home/george/projects/BackUpSys/./include -O3 -DNDEBUG -w -O2 -std=c++17 -lcrypto -o CMakeFiles/backupsys.dir/src/task.cpp.o -c /home/george/projects/BackUpSys/src/task.cpp",
+  "file": "/home/george/projects/BackUpSys/src/task.cpp"
+},
+{
+  "directory": "/home/george/projects/BackUpSys/build/tests",
+  "command": "/usr/bin/g++  -I/home/george/projects/BackUpSys/./include -I/home/george/projects/BackUpSys/tests/../include -O3 -DNDEBUG -w -O2 -std=c++17 -lcrypto -o CMakeFiles/test1.dir/__/src/aes.cpp.o -c /home/george/projects/BackUpSys/src/aes.cpp",
+  "file": "/home/george/projects/BackUpSys/src/aes.cpp"
+},
+{
+  "directory": "/home/george/projects/BackUpSys/build/tests",
+  "command": "/usr/bin/g++  -I/home/george/projects/BackUpSys/./include -I/home/george/projects/BackUpSys/tests/../include -O3 -DNDEBUG -w -O2 -std=c++17 -lcrypto -o CMakeFiles/test1.dir/__/src/compressor.cpp.o -c /home/george/projects/BackUpSys/src/compressor.cpp",
+  "file": "/home/george/projects/BackUpSys/src/compressor.cpp"
+},
+{
+  "directory": "/home/george/projects/BackUpSys/build/tests",
+  "command": "/usr/bin/g++  -I/home/george/projects/BackUpSys/./include -I/home/george/projects/BackUpSys/tests/../include -O3 -DNDEBUG -w -O2 -std=c++17 -lcrypto -o CMakeFiles/test1.dir/__/src/filebase.cpp.o -c /home/george/projects/BackUpSys/src/filebase.cpp",
+  "file": "/home/george/projects/BackUpSys/src/filebase.cpp"
+},
+{
+  "directory": "/home/george/projects/BackUpSys/build/tests",
+  "command": "/usr/bin/g++  -I/home/george/projects/BackUpSys/./include -I/home/george/projects/BackUpSys/tests/../include -O3 -DNDEBUG -w -O2 -std=c++17 -lcrypto -o CMakeFiles/test1.dir/__/src/filter.cpp.o -c /home/george/projects/BackUpSys/src/filter.cpp",
+  "file": "/home/george/projects/BackUpSys/src/filter.cpp"
+},
+{
+  "directory": "/home/george/projects/BackUpSys/build/tests",
+  "command": "/usr/bin/g++  -I/home/george/projects/BackUpSys/./include -I/home/george/projects/BackUpSys/tests/../include -O3 -DNDEBUG -w -O2 -std=c++17 -lcrypto -o CMakeFiles/test1.dir/__/src/packer.cpp.o -c /home/george/projects/BackUpSys/src/packer.cpp",
+  "file": "/home/george/projects/BackUpSys/src/packer.cpp"
+},
+{
+  "directory": "/home/george/projects/BackUpSys/build/tests",
+  "command": "/usr/bin/g++  -I/home/george/projects/BackUpSys/./include -I/home/george/projects/BackUpSys/tests/../include -O3 -DNDEBUG -w -O2 -std=c++17 -lcrypto -o CMakeFiles/test1.dir/__/src/task.cpp.o -c /home/george/projects/BackUpSys/src/task.cpp",
+  "file": "/home/george/projects/BackUpSys/src/task.cpp"
+},
+{
+  "directory": "/home/george/projects/BackUpSys/build/tests",
+  "command": "/usr/bin/g++  -I/home/george/projects/BackUpSys/./include -I/home/george/projects/BackUpSys/tests/../include -O3 -DNDEBUG -w -O2 -std=c++17 -lcrypto -o CMakeFiles/test1.dir/test1.cpp.o -c /home/george/projects/BackUpSys/tests/test1.cpp",
+  "file": "/home/george/projects/BackUpSys/tests/test1.cpp"
+}
+]

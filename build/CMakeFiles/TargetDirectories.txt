@@ -1,0 +1,8 @@
+/home/george/projects/BackUpSys/build/CMakeFiles/backupsys.dir
+/home/george/projects/BackUpSys/build/CMakeFiles/test.dir
+/home/george/projects/BackUpSys/build/CMakeFiles/edit_cache.dir
+/home/george/projects/BackUpSys/build/CMakeFiles/rebuild_cache.dir
+/home/george/projects/BackUpSys/build/tests/CMakeFiles/test1.dir
+/home/george/projects/BackUpSys/build/tests/CMakeFiles/test.dir
+/home/george/projects/BackUpSys/build/tests/CMakeFiles/edit_cache.dir
+/home/george/projects/BackUpSys/build/tests/CMakeFiles/rebuild_cache.dir
